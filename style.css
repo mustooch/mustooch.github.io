@@ -1,0 +1,26 @@
+html {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #140029;
+}
+
+p {
+	color: #c7d1cf;
+}
+
+#minesweeper {
+	width: 30%;
+	height: 30%;
+}
+
+#gameoflife {
+	width: 30%;
+	height: 30%;
+}
+
+a {
+	color: #9a3bff;
+}
+
+h1, h2, h3, h4, h5 {
+	color: #d9f9fa;
+}
